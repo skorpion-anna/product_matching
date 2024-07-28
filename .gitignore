@@ -174,4 +174,5 @@ cython_debug/
 #.idea/
 
 datasets
+datasets_full
 example
